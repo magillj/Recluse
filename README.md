@@ -14,8 +14,9 @@ Version 2 - Support for multiple definitions of where to find text, ability to i
             
 Version 3 - Ability to follow links (configurable as to which ones)
 
-
+---------------------------------------------------------------------------------------------------
 So, how do I get crawling?
+
 1. Create an HTML file with exactly the elements that you expect your desired text to be in. 
 
    For example, if I wanted the text between all paragraph tags with a class of "paragraph", I 
