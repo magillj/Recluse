@@ -1,9 +1,9 @@
 Recluse
 =======
 
-A basic and original web crawler
+A basic and original web crawler. Made this a while ago while I was bored, so it's probably outdated.
 
-Still under development, and currently unfunctional. Here's the plan though:
+Here's what the development plan was though:
 
 Version 1 - Basic data collection. The location of the information on the page is determined by an 
             HTML configuration file. Data is read from there and then searched for across the page. 
